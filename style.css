@@ -677,7 +677,34 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
+}
+
+blockquote {
+    border: none;
+    margin-bottom: 0;
+}
+
+
+.citation {
+    font-size: 18px;
+
+
+}
+
+figcaption {
+    font-size: 18px;
+   
+}
+
+.description {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rop {
+    text-align: center;
+    justify-content: center;
 }
 
 .tight-width-whitespace {
