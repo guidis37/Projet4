@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgb(255, 255, 255);
 }
 
 .d-bloc .a-btn:hover,
@@ -677,7 +677,8 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
+    font-weight: 600;
 }
 
 blockquote {
@@ -694,6 +695,7 @@ blockquote {
 
 figcaption {
     font-size: 18px;
+    color:#727272;
    
 }
 
@@ -798,15 +800,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #e87e4d;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #e87e4d!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #e87e4d;
     color: #FFFFFF!important;
 }
 
