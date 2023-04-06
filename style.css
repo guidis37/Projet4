@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+
 }
 
 a:hover {
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgb(255, 255, 255);
+    color: rgb(8, 8, 8);
 }
 
 .d-bloc .a-btn:hover,
@@ -460,9 +460,6 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-    outline: none!important;
-}
 
 .btn-rd {
     border-radius: 40px;
@@ -800,15 +797,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #e87e4d;
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: #e87e4d!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
-    background: #e87e4d;
+    background: #F3976C;
     color: #FFFFFF!important;
 }
 
